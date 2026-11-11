@@ -3,6 +3,11 @@
  "scores": {
   "bricks/0": [
    {
+    "name": "Alfie",
+    "score": 1460,
+    "date": "2026-11-11"
+   },
+   {
     "name": "Ethan",
     "score": 80,
     "date": "2026-11-11"
