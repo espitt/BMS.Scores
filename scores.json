@@ -1,6 +1,13 @@
 {
  "format": 1,
  "scores": {
+  "bricks/0": [
+   {
+    "name": "Ethan",
+    "score": 80,
+    "date": "2026-11-11"
+   }
+  ],
   "snake/0": [
    {
     "name": "Ethan",
