@@ -51,6 +51,11 @@
   ],
   "runner/0": [
    {
+    "name": "Joe",
+    "score": 3563,
+    "date": "2026-11-12"
+   },
+   {
     "name": "Ethan",
     "score": 1968,
     "date": "2026-11-12"
@@ -59,11 +64,6 @@
     "name": "Adam",
     "score": 908,
     "date": "2026-11-11"
-   },
-   {
-    "name": "Joe",
-    "score": 895,
-    "date": "2026-11-12"
    }
   ],
   "snake/0": [
