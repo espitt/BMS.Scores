@@ -81,6 +81,11 @@
     "name": "Adam",
     "score": 180,
     "date": "2026-11-11"
+   },
+   {
+    "name": "Ben",
+    "score": 30,
+    "date": "2026-11-12"
    }
   ],
   "solitaire/0": [
