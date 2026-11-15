@@ -20,6 +20,11 @@
   ],
   "glider/0": [
    {
+    "name": "Ben",
+    "score": 18,
+    "date": "2026-11-15"
+   },
+   {
     "name": "Alfie",
     "score": 16,
     "date": "2026-11-12"
@@ -38,11 +43,6 @@
     "name": "Ethan",
     "score": 6,
     "date": "2026-11-12"
-   },
-   {
-    "name": "Ben",
-    "score": 2,
-    "date": "2026-11-15"
    }
   ],
   "merge/0": [
