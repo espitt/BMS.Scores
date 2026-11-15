@@ -38,6 +38,11 @@
     "name": "Ethan",
     "score": 6,
     "date": "2026-11-12"
+   },
+   {
+    "name": "Ben",
+    "score": 2,
+    "date": "2026-11-15"
    }
   ],
   "merge/0": [
