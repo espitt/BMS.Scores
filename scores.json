@@ -69,6 +69,11 @@
   ],
   "mines/0": [
    {
+    "name": "Ben",
+    "score": 70,
+    "date": "2026-11-25"
+   },
+   {
     "name": "Ethan",
     "score": 55,
     "date": "2026-11-11"
@@ -77,11 +82,6 @@
     "name": "Joe",
     "score": 55,
     "date": "2026-11-12"
-   },
-   {
-    "name": "Ben",
-    "score": 15,
-    "date": "2026-11-25"
    }
   ],
   "mines/2": [
